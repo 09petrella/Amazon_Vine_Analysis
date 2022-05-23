@@ -24,7 +24,7 @@ Our purpose for this project was a continuation from previous work assisting the
 - The percentage of non-Vine reviews that were 5 stars is 38.7%.
 
 ![five_star_vine_percentage](Resources/five_star_vine_percentage.png)
-![five_star_non_vine_percentage.png)
+![five_star_non_vine_percentage](Resources/five_star_non_vine_percentage.png)
 
 ## Vine Review Summary 
 
